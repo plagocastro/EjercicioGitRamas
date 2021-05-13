@@ -7,7 +7,7 @@ public class Main {
         // ----
         // varios idomas implementados
         // fix
-
+        System.out.println("B");
         // trabajando en la nueva funcionalidad
 
         // terminada la nueva funcionalidad
